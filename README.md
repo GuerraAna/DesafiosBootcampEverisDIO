@@ -28,13 +28,27 @@ O objetivo destes desafios de codificação é praticar, através do desenvolvim
 
 O objetivo destes desafios de codificação é praticar, através do desenvolvimento de algoritmos, os conceitos de pensamento computacional em Kotlin.
 
-|  Numeração do Desafio  |          Tema do Desafio          |  Tipo do Desafio   | Nível do Desafio |                     Resposta do Desafio                      |
-| :--------------------: | :-------------------------------: | :----------------: | :--------------: | :----------------------------------------------------------: |
-| [Desafio 1](#anchor11) | Solucionando Problemas com Kotlin | Princípios Básicos |      Básico      | [Resposta 1](src/main/kotlin/DesafioTaxaDeImpostoDeRenda.kt) |
-| [Desafio 2](#anchor22) | Solucionando Problemas com Kotlin | Princípios Básicos |  Intermediário   |      [Resposta 2](src/main/kotlin/DesafioAreaDoCirculo)      |
-| [Desafio 3](#anchor33) | Solucionando Problemas com Kotlin |     Matemática     |  Intermediário   |     [Resposta 3](src/main/kotlin/DesafioPrimoRapido.kt)      |
-| [Desafio 4](#anchor44) | Solucionando Problemas com Kotlin | Princípios Básicos |      Básico      | [Resposta 4](src/main/kotlin/DesafioACorridaDeTartarugas.kt) |
-| [Desafio 5](#anchor55) | Solucionando Problemas com Kotlin |     Matemática     |      Básico      |      [Resposta 5](src/main/kotlin/DesafioFigurinhas.kt)      |
+| Numeração do Desafio  |          Tema do Desafio          |  Tipo do Desafio   | Nível do Desafio |                     Resposta do Desafio                      |
+| :-------------------: | :-------------------------------: | :----------------: | :--------------: | :----------------------------------------------------------: |
+| [Desafio 1](#anchor4) | Solucionando Problemas com Kotlin | Princípios Básicos |      Básico      | [Resposta 1](src/main/kotlin/DesafioTaxaDeImpostoDeRenda.kt) |
+| [Desafio 2](#anchor5) | Solucionando Problemas com Kotlin | Princípios Básicos |  Intermediário   |      [Resposta 2](src/main/kotlin/DesafioAreaDoCirculo)      |
+| [Desafio 3](#anchor6) | Solucionando Problemas com Kotlin |     Matemática     |  Intermediário   |     [Resposta 3](src/main/kotlin/DesafioPrimoRapido.kt)      |
+| [Desafio 4](#anchor7) | Solucionando Problemas com Kotlin | Princípios Básicos |      Básico      | [Resposta 4](src/main/kotlin/DesafioACorridaDeTartarugas.kt) |
+| [Desafio 5](#anchor8) | Solucionando Problemas com Kotlin |     Matemática     |      Básico      |      [Resposta 5](src/main/kotlin/DesafioFigurinhas.kt)      |
+
+### <a id="anchor2"></a>[Desafio 1](#anchor4)
+
+### <a id="anchor2"></a>[Desafio 2](#anchor5)
+
+### <a id="anchor2"></a>[Desafio 3](#anchor6)
+
+### <a id="anchor2"></a>[Desafio 1](#anchor7)
+
+### <a id="anchor2"></a>[Desafio 2](#anchor8)
+
+
+
+
 
 
 
@@ -42,17 +56,19 @@ O objetivo destes desafios de codificação é praticar, através do desenvolvim
 
 O objetivo destes desafios de codificação é praticar, através do desenvolvimento de algoritmos, os conceitos de pensamento computacional apresentados nas aulas e desafios anteriores.
 
-|  Numeração do Desafio   |         Tema do Desafio          |  Tipo do Desafio   | Nível do Desafio |                     Resposta do Desafio                      |
-| :---------------------: | :------------------------------: | :----------------: | :--------------: | :----------------------------------------------------------: |
-| [Desafio 1](#anchor111) | Praticando Programação em Kotlin |       Ad-Hoc       |      Básico      | [Resposta 1](src/main/kotlin/DesafioOJogoMatematicoDePaula.kt) |
-| [Desafio 2](#anchor222) | Praticando Programação em Kotlin |     Matemática     |  Intermediário   | [Resposta 2](src/main/kotlin/DesafioConversaoSimplesDeBase.kt) |
-| [Desafio 3](#anchor333) | Praticando Programação em Kotlin | Princípios Básicos |      Básico      |     [Resposta 3](src/main/kotlin/DesafioBobConduite.kt)      |
+|  Numeração do Desafio  |         Tema do Desafio          |  Tipo do Desafio   | Nível do Desafio |                     Resposta do Desafio                      |
+| :--------------------: | :------------------------------: | :----------------: | :--------------: | :----------------------------------------------------------: |
+| [Desafio 1](#anchor9)  | Praticando Programação em Kotlin |       Ad-Hoc       |      Básico      | [Resposta 1](src/main/kotlin/DesafioOJogoMatematicoDePaula.kt) |
+| [Desafio 2](#anchor10) | Praticando Programação em Kotlin |     Matemática     |  Intermediário   | [Resposta 2](src/main/kotlin/DesafioConversaoSimplesDeBase.kt) |
+| [Desafio 3](#anchor11) | Praticando Programação em Kotlin | Princípios Básicos |      Básico      |     [Resposta 3](src/main/kotlin/DesafioBobConduite.kt)      |
 
 ## 
 
+### <a id="anchor2"></a>[Desafio 3](#anchor9)
 
+### <a id="anchor2"></a>[Desafio 3](#anchor10)
 
-
+### <a id="anchor2"></a>[Desafio 3](#anchor11)
 
 
 
