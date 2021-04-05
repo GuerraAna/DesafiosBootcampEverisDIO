@@ -16,11 +16,11 @@ O objetivo destes desafios de codificação é praticar, através do desenvolvim
 | [Desafio 2](#anchor2) | Introdução à Programação em Kotlin | Princípios Básicos |      Básico      | [Resposta 2](src/main/kotlin/DesafioNumerosInpares.kt)  |
 | [Desafio 3](#anchor3) | Introdução à Programação em Kotlin | Princípios Básicos |      Básico      | [Resposta 3](src/main/kotlin/DesafioQuadradoEAoCubo.kt) |
 
-### <a id="anchor2"></a>[Desafio 1](#anchor1)
+### <a id="anchor1"></a>[Desafio 1](#anchor1)
 
 ### <a id="anchor2"></a>[Desafio 2](#anchor2)
 
-### <a id="anchor2"></a>[Desafio 3](#anchor3)
+### <a id="anchor3"></a>[Desafio 3](#anchor3)
 
 
 
@@ -36,15 +36,15 @@ O objetivo destes desafios de codificação é praticar, através do desenvolvim
 | [Desafio 4](#anchor7) | Solucionando Problemas com Kotlin | Princípios Básicos |      Básico      | [Resposta 4](src/main/kotlin/DesafioACorridaDeTartarugas.kt) |
 | [Desafio 5](#anchor8) | Solucionando Problemas com Kotlin |     Matemática     |      Básico      |      [Resposta 5](src/main/kotlin/DesafioFigurinhas.kt)      |
 
-### <a id="anchor2"></a>[Desafio 1](#anchor4)
+### <a id="anchor4"></a>[Desafio 1](#anchor4)
 
-### <a id="anchor2"></a>[Desafio 2](#anchor5)
+### <a id="anchor5"></a>[Desafio 2](#anchor5)
 
-### <a id="anchor2"></a>[Desafio 3](#anchor6)
+### <a id="anchor6"></a>[Desafio 3](#anchor6)
 
-### <a id="anchor2"></a>[Desafio 1](#anchor7)
+### <a id="anchor7"></a>[Desafio 4](#anchor7)
 
-### <a id="anchor2"></a>[Desafio 2](#anchor8)
+### <a id="anchor8"></a>[Desafio 5](#anchor8)
 
 
 
@@ -64,11 +64,14 @@ O objetivo destes desafios de codificação é praticar, através do desenvolvim
 
 ## 
 
-### <a id="anchor2"></a>[Desafio 3](#anchor9)
+### <a id="anchor9"></a>[Desafio 1](#anchor9)
 
-### <a id="anchor2"></a>[Desafio 3](#anchor10)
+### <a id="anchor10"></a>[Desafio 2](#anchor10)
 
-### <a id="anchor2"></a>[Desafio 3](#anchor11)
+### <a id="anchor11"></a>[Desafio 3](#anchor11)
+
+
+
 
 
 
