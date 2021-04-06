@@ -14,7 +14,7 @@
 
 O objetivo destes desafios de codificação é praticar, através do desenvolvimento de algoritmos, os conceitos de pensamento computacional apresentados nas aulas do Bootcamp everis Kotlin Developer.
 
-
+<a name="anchor"></a>
 
 | Numeração do Desafio  |          Tema do Desafio           |  Tipo do Desafio   | Nível do Desafio |                   Resposta do Desafio                   |
 | :-------------------: | :--------------------------------: | :----------------: | :--------------: | :-----------------------------------------------------: |
@@ -24,7 +24,7 @@ O objetivo destes desafios de codificação é praticar, através do desenvolvim
 
 
 
-### <a id="anchor1"></a>[Desafio 1: Soma Simples](#anchor1)
+### <a id="anchor1"></a>[Desafio 1: Soma Simples](#anchor)
 
 
 #### Desafio
@@ -57,7 +57,7 @@ Imprima a variável **SOMA** com todas as letras maiúsculas, inserindo um espa�
 
 
 
-### <a id="anchor2"></a>[Desafio 2: Números Ímpares](#anchor2)
+### <a id="anchor2"></a>[Desafio 2: Números Ímpares](#anchor)
 
 
 #### Desafio
@@ -81,7 +81,7 @@ Imprima todos os valores ímpares de 1 até **X**, inclusive **X**, se for o cas
 
 
 
-### <a id="anchor3"></a>[Desafio 3: Quadrado e ao Cubo](#anchor3)
+### <a id="anchor3"></a>[Desafio 3: Quadrado e ao Cubo](#anchor)
 
 
 #### Desafio
@@ -114,6 +114,8 @@ Imprima a saída conforme o exemplo fornecido..
 
 O objetivo destes desafios de codificação é praticar, através do desenvolvimento de algoritmos, os conceitos de pensamento computacional em Kotlin.
 
+<a name="anchor100"></a>
+
 | Numeração do Desafio  |          Tema do Desafio          |  Tipo do Desafio   | Nível do Desafio |                     Resposta do Desafio                      |
 | :-------------------: | :-------------------------------: | :----------------: | :--------------: | :----------------------------------------------------------: |
 | [Desafio 1](#anchor4) | Solucionando Problemas com Kotlin | Princípios Básicos |      Básico      | [Resposta 1](src/main/kotlin/DesafioTaxaDeImpostoDeRenda.kt) |
@@ -122,7 +124,7 @@ O objetivo destes desafios de codificação é praticar, através do desenvolvim
 | [Desafio 4](#anchor7) | Solucionando Problemas com Kotlin | Princípios Básicos |      Básico      | [Resposta 4](src/main/kotlin/DesafioACorridaDeTartarugas.kt) |
 | [Desafio 5](#anchor8) | Solucionando Problemas com Kotlin |     Matemática     |      Básico      |      [Resposta 5](src/main/kotlin/DesafioFigurinhas.kt)      |
 
-### <a id="anchor4"></a>[Desafio 1: Desafio Taxa de Imposto de Renda](#anchor4)
+### <a id="anchor4"></a>[Desafio 1: Desafio Taxa de Imposto de Renda](#anchor100)
 
 
 #### Desafio
@@ -157,7 +159,7 @@ Imprima o texto "R$" seguido de um espaço e do valor total devido de Imposto de
 
 
 
-### <a id="anchor5"></a>[Desafio 2: Área do Círculo](#anchor5)
+### <a id="anchor5"></a>[Desafio 2: Área do Círculo](#anchor100)
 
 
 #### Desafio
@@ -188,7 +190,7 @@ Apresentar a mensagem "A=" seguido pelo valor da variável **area**, conforme ex
 
 
 
-### <a id="anchor6"></a>[Desafio 3: Primo Rápido](#anchor6)
+### <a id="anchor6"></a>[Desafio 3: Primo Rápido](#anchor100)
 
 #### Desafio
 
@@ -211,7 +213,7 @@ Para cada caso de teste imprima a mensagem “Prime” (Primo) ou “Not Prime�
 
 
 
-### <a id="anchor7"></a>[Desafio 4: A Corrida de Tartarugas](#anchor7)
+### <a id="anchor7"></a>[Desafio 4: A Corrida de Tartarugas](#anchor100)
 
 #### Desafio
 
@@ -245,7 +247,7 @@ Para cada caso de teste, imprima uma única linha indicando o nível de velocida
 
 
 
-### <a id="anchor8"></a>[Desafio 5: Figurinhas](#anchor8)
+### <a id="anchor8"></a>[Desafio 5: Figurinhas](#anchor100)
 
 #### Desafio
 
@@ -274,13 +276,15 @@ Para cada caso de teste de entrada haverá um valor na saída, representando o t
 
 O objetivo destes desafios de codificação é praticar, através do desenvolvimento de algoritmos, os conceitos de pensamento computacional apresentados nas aulas e desafios anteriores.
 
+<a name="anchor200"></a>
+
 |  Numeração do Desafio  |         Tema do Desafio          |  Tipo do Desafio   | Nível do Desafio |                     Resposta do Desafio                      |
 | :--------------------: | :------------------------------: | :----------------: | :--------------: | :----------------------------------------------------------: |
 | [Desafio 1](#anchor9)  | Praticando Programação em Kotlin |       Ad-Hoc       |      Básico      | [Resposta 1](src/main/kotlin/DesafioOJogoMatematicoDePaula.kt) |
 | [Desafio 2](#anchor10) | Praticando Programação em Kotlin |     Matemática     |  Intermediário   | [Resposta 2](src/main/kotlin/DesafioConversaoSimplesDeBase.kt) |
 | [Desafio 3](#anchor11) | Praticando Programação em Kotlin | Princípios Básicos |      Básico      |     [Resposta 3](src/main/kotlin/DesafioBobConduite.kt)      |
 
-### <a id="anchor9"></a>[Desafio 1: O jogo de Matemática de Paula](#anchor9)
+### <a id="anchor9"></a>[Desafio 1: O jogo de Matemática de Paula](#anchor200)
 
 #### Desafio
 
@@ -307,7 +311,7 @@ Para cada caso de teste, deve ser impressa uma linha com um valor inteiro que re
 
 
 
-### <a id="anchor10"></a>[Desafio 2: Conversão Simples de Base](#anchor10)
+### <a id="anchor10"></a>[Desafio 2: Conversão Simples de Base](#anchor200)
 
 #### Desafio
 
@@ -331,7 +335,7 @@ Para cada linha de entrada (exceto a última) deve ser produzido uma linha de sa
 
 
 
-### <a id="anchor11"></a>[Desafio 3: Bob Conduite](#anchor11)
+### <a id="anchor11"></a>[Desafio 3: Bob Conduite](#anchor200)
 
 #### Desafio
 
@@ -348,13 +352,3 @@ Na única linha de cada caso teremos dois números inteiros **R1** e **R2**, ind
 #### Saída
 
 Em cada caso, imprima o menor raio possível em uma única linha
-
-| Primeiro Exemplo de Entrada | Primeiro Exemplo de Saída |
-| :-------------------------: | :-----------------------: |
-|              4              |             2             |
-|             1 1             |            10             |
-|             2 8             |            10             |
-|             8 2             |                           |
-
-
-
