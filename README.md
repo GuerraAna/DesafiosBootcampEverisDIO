@@ -26,7 +26,6 @@ O objetivo destes desafios de codificação é praticar, através do desenvolvim
 
 ### <a id="anchor1"></a>[Desafio 1: Soma Simples](#anchor1)
 
-<img src="https://img.freepik.com/icones-gratis/soma_318-10811.jpg?size=338&ext=jpg" alt="A soma de símbolo matemático | Ícone Gratis" style="zoom:33%;" /><img src="drawing.jpg" alt="drawing" width="100"/>
 
 #### Desafio
 
@@ -60,7 +59,6 @@ Imprima a variável **SOMA** com todas as letras maiúsculas, inserindo um espa�
 
 ### <a id="anchor2"></a>[Desafio 2: Números Ímpares](#anchor2)
 
-<img src="https://www.rpm.org.br/cdrpm/86/images/15.jpg" alt="RPM 86 - N3 como soma de N ímpares consecutivos" style="zoom:25%;" />
 
 #### Desafio
 
@@ -85,7 +83,6 @@ Imprima todos os valores ímpares de 1 até **X**, inclusive **X**, se for o cas
 
 ### <a id="anchor3"></a>[Desafio 3: Quadrado e ao Cubo](#anchor3)
 
-<img src="http://blog.maxieduca.com.br/wp-content/uploads/2017/04/1.jpg" alt="Potências: tudo o que você precisa saber está aqui!" style="zoom: 25%;" />
 
 #### Desafio
 
@@ -127,13 +124,12 @@ O objetivo destes desafios de codificação é praticar, através do desenvolvim
 
 ### <a id="anchor4"></a>[Desafio 1: Desafio Taxa de Imposto de Renda](#anchor4)
 
-<img src="https://exame.com/wp-content/uploads/2020/03/gettyimages-1153626052.jpg" alt="Secretário da Receita diz que entrega do Imposto de Renda não será adiada |  Invest | Exame" style="zoom:10%;" />
 
 #### Desafio
 
 Há um país denominado Lolipad, todos os habitantes ficam felizes em pagar seus impostos, pois sabem que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem qualquer desvio. A moeda deste país é o Loli, cujo símbolo é o R$.
 
-Você terá o desafio de ler um valor com duas casas decimais, equivalente ao salário de uma pessoa de Loli. Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
+Você terá o desafio de ler um valor com duas casas decimais, equivalente ao salário de uma pessoa de Loli. Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo:
 
 ![img](https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1051_pt.png)
 
@@ -163,7 +159,6 @@ Imprima o texto "R$" seguido de um espaço e do valor total devido de Imposto de
 
 ### <a id="anchor5"></a>[Desafio 2: Área do Círculo](#anchor5)
 
-![Blog Professor Ferretto](https://blog.professorferretto.com.br/wp-content/uploads/2019/11/diferenca-entre-circunferencia-e-circulo-300x156.png)
 
 #### Desafio
 
@@ -195,8 +190,6 @@ Apresentar a mensagem "A=" seguido pelo valor da variável **area**, conforme ex
 
 ### <a id="anchor6"></a>[Desafio 3: Primo Rápido](#anchor6)
 
-<img src="https://static.escolakids.uol.com.br/2020/06/numeros-primos.jpg" alt="Números primos: o que são e como encontrá-los? - Escola Kids" style="zoom:25%;" />
-
 #### Desafio
 
 Mariazinha sabe que um Número Primo é aquele que pode ser dividido somente por 1 (um) e por ele mesmo. Por exemplo, o número 7 é primo, pois pode ser dividido apenas pelo número 1 e pelo número 7 sem que haja resto. Então ela pediu para você fazer um programa que aceite diversos valores e diga se cada um destes valores é primo ou não. Acontece que a paciência não é uma das virtudes de Mariazinha, portanto ela quer que a execução de todos os casos de teste que ela selecionar (instâncias) aconteçam no tempo máximo de um segundo, pois ela odeia esperar.
@@ -219,8 +212,6 @@ Para cada caso de teste imprima a mensagem “Prime” (Primo) ou “Not Prime�
 
 
 ### <a id="anchor7"></a>[Desafio 4: A Corrida de Tartarugas](#anchor7)
-
-<img src="https://i.dlpng.com/static/png/6499753_preview.png" alt="Download Free png Turtle Race- Ticket Sale | Mokena, IL Patch - DLPNG.com" style="zoom: 10%;" />
 
 #### Desafio
 
@@ -255,8 +246,6 @@ Para cada caso de teste, imprima uma única linha indicando o nível de velocida
 
 
 ### <a id="anchor8"></a>[Desafio 5: Figurinhas](#anchor8)
-
-<img src="https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1028.jpg" alt="img" style="zoom: 50%;" />
 
 #### Desafio
 
@@ -293,8 +282,6 @@ O objetivo destes desafios de codificação é praticar, através do desenvolvim
 
 ### <a id="anchor9"></a>[Desafio 1: O jogo de Matemática de Paula](#anchor9)
 
-<img src="https://live.staticflickr.com/4814/46139556412_13f382d866_b.jpg" alt="Jogos educacionais no ensino de Matemática | Foto: Viktor … | Flickr" style="zoom:25%;" />
-
 #### Desafio
 
 Paula simplesmente adora matemática. Seu maior passatempo é ficar inventando jogos ou atividades que a envolvam para brincar com seus amiguinhos. Obviamente, nem todos eles não são tão apaixonados assim por matemática e têm muita dificuldade para resolver as brincadeiras propostas por ela. Agora Paula inventou um pequeno passatempo que envolve 3 caracteres: um dígito numérico, uma letra e outro dígito numérico.
@@ -322,8 +309,6 @@ Para cada caso de teste, deve ser impressa uma linha com um valor inteiro que re
 
 ### <a id="anchor10"></a>[Desafio 2: Conversão Simples de Base](#anchor10)
 
-![img](https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1199.gif)
-
 #### Desafio
 
 Neste problema você é solicitado a escrever um simples programa de conversão de base. A entrada será um valor hexadecimal ou decimal. Você deverá converter cada valor da entrada. Se o valor for hexadecimal, você deve convertê-lo para decimal e vice-versa. O valor hexadecimal inicia sempre com “0x” ou também, é aquele valor cuja segunda casa contém a letra 'x'.
@@ -347,8 +332,6 @@ Para cada linha de entrada (exceto a última) deve ser produzido uma linha de sa
 
 
 ### <a id="anchor11"></a>[Desafio 3: Bob Conduite](#anchor11)
-
-![img](https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1589.jpg)
 
 #### Desafio
 
