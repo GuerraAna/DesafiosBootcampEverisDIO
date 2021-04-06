@@ -60,7 +60,7 @@ Imprima a variável **SOMA** com todas as letras maiúsculas, inserindo um espa�
 
 ### <a id="anchor2"></a>[Desafio 2: Números Ímpares](#anchor2)
 
-<img src="https://www.rpm.org.br/cdrpm/86/images/15.jpg" alt="RPM 86 - N3 como soma de N ímpares consecutivos" style="zoom:33%;" />
+<img src="https://www.rpm.org.br/cdrpm/86/images/15.jpg" alt="RPM 86 - N3 como soma de N ímpares consecutivos" style="zoom:25%;" />
 
 #### Desafio
 
@@ -85,7 +85,7 @@ Imprima todos os valores ímpares de 1 até **X**, inclusive **X**, se for o cas
 
 ### <a id="anchor3"></a>[Desafio 3: Quadrado e ao Cubo](#anchor3)
 
-<img src="http://blog.maxieduca.com.br/wp-content/uploads/2017/04/1.jpg" alt="Potências: tudo o que você precisa saber está aqui!" style="zoom: 50%;" />
+<img src="http://blog.maxieduca.com.br/wp-content/uploads/2017/04/1.jpg" alt="Potências: tudo o que você precisa saber está aqui!" style="zoom: 25%;" />
 
 #### Desafio
 
@@ -127,7 +127,7 @@ O objetivo destes desafios de codificação é praticar, através do desenvolvim
 
 ### <a id="anchor4"></a>[Desafio 1: Desafio Taxa de Imposto de Renda](#anchor4)
 
-<img src="https://exame.com/wp-content/uploads/2020/03/gettyimages-1153626052.jpg" alt="Secretário da Receita diz que entrega do Imposto de Renda não será adiada |  Invest | Exame" style="zoom:25%;" />
+<img src="https://exame.com/wp-content/uploads/2020/03/gettyimages-1153626052.jpg" alt="Secretário da Receita diz que entrega do Imposto de Renda não será adiada |  Invest | Exame" style="zoom:10%;" />
 
 #### Desafio
 
@@ -195,7 +195,7 @@ Apresentar a mensagem "A=" seguido pelo valor da variável **area**, conforme ex
 
 ### <a id="anchor6"></a>[Desafio 3: Primo Rápido](#anchor6)
 
-<img src="https://static.escolakids.uol.com.br/2020/06/numeros-primos.jpg" alt="Números primos: o que são e como encontrá-los? - Escola Kids" style="zoom:33%;" />
+<img src="https://static.escolakids.uol.com.br/2020/06/numeros-primos.jpg" alt="Números primos: o que são e como encontrá-los? - Escola Kids" style="zoom:25%;" />
 
 #### Desafio
 
@@ -220,7 +220,7 @@ Para cada caso de teste imprima a mensagem “Prime” (Primo) ou “Not Prime�
 
 ### <a id="anchor7"></a>[Desafio 4: A Corrida de Tartarugas](#anchor7)
 
-<img src="https://i.dlpng.com/static/png/6499753_preview.png" alt="Download Free png Turtle Race- Ticket Sale | Mokena, IL Patch - DLPNG.com" style="zoom: 33%;" />
+<img src="https://i.dlpng.com/static/png/6499753_preview.png" alt="Download Free png Turtle Race- Ticket Sale | Mokena, IL Patch - DLPNG.com" style="zoom: 10%;" />
 
 #### Desafio
 
