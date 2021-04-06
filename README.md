@@ -26,7 +26,7 @@ O objetivo destes desafios de codificação é praticar, através do desenvolvim
 
 ### <a id="anchor1"></a>[Desafio 1: Soma Simples](#anchor1)
 
-<img src="https://img.freepik.com/icones-gratis/soma_318-10811.jpg?size=338&ext=jpg" alt="A soma de símbolo matemático | Ícone Gratis" style="zoom:33%;" />
+<img src="https://img.freepik.com/icones-gratis/soma_318-10811.jpg?size=338&ext=jpg" alt="A soma de símbolo matemático | Ícone Gratis" style="zoom:33%;" /><img src="drawing.jpg" alt="drawing" width="100"/>
 
 #### Desafio
 
