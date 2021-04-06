@@ -352,3 +352,11 @@ Na única linha de cada caso teremos dois números inteiros **R1** e **R2**, ind
 #### Saída
 
 Em cada caso, imprima o menor raio possível em uma única linha
+| Primeiro Exemplo de Entrada | Primeiro Exemplo de Saída |
+| :-------------------------: | :-----------------------: |
+|              4              |             2             |
+|             1 1             |            10             |
+|             2 8             |            10             |
+|             8 2             |                           |
+
+
